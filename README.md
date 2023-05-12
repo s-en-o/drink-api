@@ -25,3 +25,9 @@ python manage.py runserver
 ```
 python manage.py migrate
 ```
+
+### Migration
+
+```
+python manage.py makemigrations drinks
+```

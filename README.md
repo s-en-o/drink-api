@@ -31,3 +31,7 @@ python manage.py migrate
 ```
 python manage.py makemigrations drinks
 ```
+
+```
+python manage.py migrate
+```
